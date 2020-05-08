@@ -1,0 +1,30 @@
+body{
+    background-color: black !important;
+    font-family: 'Courier New', Courier, monospace !important;
+    color: white !important;
+}
+
+h4{
+    text-align: center;
+    margin-top: 20% !important;
+}
+
+p{
+    font-size: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+    text-align: center;
+}
+
+button{
+    height: 40%;
+    width: 30%;
+    border-radius: 10%;
+    padding:2% 2% 2% 2%;
+}
+input
+{
+    width:50%;
+    height: 50%;
+    border-radius: 5%;
+}
