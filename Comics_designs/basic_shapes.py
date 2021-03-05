@@ -3,7 +3,7 @@ import time
 a = turtle.Screen()
 a.title('Shapes')
 a.bgcolor("black")
-a.setup(width=1000, height=1000)
+a.setup(width=10000, height=10000)
 b = turtle.Turtle()
 b.color('white')
 b.pensize(5)
@@ -29,7 +29,7 @@ def parallelogram():
     b.fd(100)
 
 def my_name():
-    b.write('Hetal',False,'center',('algerian', 100, 'bold'))
+    b.write('Hello World',False,'center',('algerian', 100, 'bold'))
 
 time.sleep(10)
 b.penup()

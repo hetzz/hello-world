@@ -8,7 +8,7 @@ a.setup(width=1750, height=850)
 b = turtle.Turtle()
 b.color('white')
 b.pensize(5)
-time.sleep(7)
+time.sleep(15)
 def converse():
     c = turtle.Turtle()
     c.color('white')
